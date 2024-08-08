@@ -21,6 +21,8 @@ Simply execute the binary and a drawable screenshot of your screen will open
 ```bash 
 godraw
 ```
+> [!WARNING]
+> godraw only works under X11
 
 ### Quit
 You can exit the program with `q`
